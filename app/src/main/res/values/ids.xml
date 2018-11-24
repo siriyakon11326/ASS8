@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtId" type="id" />
+    <item name="txtName" type="id" />
+    <item name="txtTel" type="id" />
+    <item name="btnSave" type="id" />
+    <item name="txtEmail" type="id" />
+</resources>
